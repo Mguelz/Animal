@@ -21,6 +21,7 @@ public class Main {
 		cobra.emitirSom();
 		cachorro.emitirSom();
 		mamifero.emitirSom();
+		cobra.alimentar();
 	}
 
 }
